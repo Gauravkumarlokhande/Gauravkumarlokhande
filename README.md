@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gauravkumarlokhande
-- 👀 I’m interested in statistical analysis
-- 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in statistical data analysis
+- 🌱 I’m currently learning Data analytics
+- 📫 How to reach me- email: gauravkumarsl.a00@gmail.com
 
 <!---
 Gauravkumarlokhande/Gauravkumarlokhande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
