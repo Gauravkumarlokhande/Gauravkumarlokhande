@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauravkumarlokhande
-- 👀 I’m interested in statistical data analysis
-- 🌱 I’m currently learning Data analytics
+- 👀 I’m interested in statistical Data Analysis, Data Science, Machine Learning, NLP
+- 🌱 I’m currently learning NLP
 - 📫 How to reach me- email: gauravkumarsl.a00@gmail.com
 
 <!---
